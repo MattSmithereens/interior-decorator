@@ -3,6 +3,13 @@ p.intro {
   font-style: italic;
  }
 
+.headline {
+
+  color: purple;
+  padding: 10px;
+  background-color: white;
+  font-size: 22px;
+}
 .columnA {
   font-weight: bold;
   text-align: center;
@@ -11,7 +18,7 @@ p.intro {
   float: left;
   padding: 10px;
   background-color: #456FFA;
-  height: 700px;
+  height: 1100px;
 }
 
 .columnB {
@@ -22,12 +29,12 @@ p.intro {
   float: right;
   padding: 10px;
   background-color: #AAAAAA;
-  height: 700px;
+  height: 1100px;
 }
 
 .my-class {
   margin: 12px;
-  border: 2px solid green;
-  padding: 4px;
-  background-color: orange;
+  border: 4px solid orange;
+  padding: 2px;
+  background-color: pink;
 }
