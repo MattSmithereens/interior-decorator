@@ -9,10 +9,18 @@ p.author {
   font-weight: bold;
 }
 
-.column {
+.columnA {
   width: 400px;
   float: left;
   padding: 10px;
+  background-color: #456FFA;
+}
+
+.columnB {
+  width: 400px;
+  float: left;
+  padding: 10px;
+  background-color: #AAAAAA;
 }
 
 .my-class {
