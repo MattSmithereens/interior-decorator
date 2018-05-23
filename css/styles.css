@@ -3,24 +3,26 @@ p.intro {
   font-style: italic;
  }
 
-p.author {
-  width: 75%;
-  font-style: italic;
-  font-weight: bold;
-}
-
 .columnA {
-  width: 400px;
+  font-weight: bold;
+  text-align: center;
+  font-family: fantasy;
+  width: 500px;
   float: left;
   padding: 10px;
   background-color: #456FFA;
+  height: 700px;
 }
 
 .columnB {
-  width: 400px;
-  float: left;
+  font-weight: bold;
+  text-align: center;
+  font-family: fantasy;
+  width: 500px;
+  float: right;
   padding: 10px;
   background-color: #AAAAAA;
+  height: 700px;
 }
 
 .my-class {
