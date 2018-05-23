@@ -8,3 +8,16 @@ p.author {
   font-style: italic;
   font-weight: bold;
 }
+
+.column {
+  width: 400px;
+  float: left;
+  padding: 10px;
+}
+
+.my-class {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+}
